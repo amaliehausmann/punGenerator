@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(137, 44, 212);
+  margin: auto;
+}
+body section {
+  margin-top: 20vw;
+}
+body section p {
+  text-align: center;
+  color: white;
+  font-size: 2.5vw;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0 7vw;
+  margin-bottom: -5vw;
+}
+body section button {
+  display: block;
+  margin: auto;
+  padding: 0.5vw 3vw;
+  font-size: 1.5vw;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 30px;
+  background-color: white;
+  border: none;
+  position: absolute;
+  left: 43%;
+  top: 55%;
+}
